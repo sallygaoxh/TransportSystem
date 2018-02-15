@@ -1,0 +1,11 @@
+TRAIN,STATE,JOURNEY
+T1,R1,J1
+T2,R2,J2
+T3,R2,J3
+T4,R3,J4
+T5,R4,J5
+T6,idle,null
+T7,idle,null
+T8,idle,null
+T9,idle,null
+T10,idle,null

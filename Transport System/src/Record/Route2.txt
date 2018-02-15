@@ -1,0 +1,8 @@
+D1,work
+D2,work
+D3,work
+D4,work
+D5,work
+D6,idle
+D7,idle
+D8,idle
